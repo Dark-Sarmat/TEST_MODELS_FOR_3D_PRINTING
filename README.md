@@ -42,4 +42,4 @@
 
 [Автор модели Dark_Sarmat](https://www.ionline.by)
 
-[Подробную информацию о моделях ввы можете почитать перейдя по ссылке] (https://www.ionline.by/diy/3d-pechat/podborka-testovyx-modelej-dlya-kalibrovki-i-nastrojki-pechati-3d-printera-30-01-2019/)
+Подробную информацию о моделях ввы можете почитать перейдя по ссылке: https://www.ionline.by/diy/3d-pechat/podborka-testovyx-modelej-dlya-kalibrovki-i-nastrojki-pechati-3d-printera-30-01-2019/
